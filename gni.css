@@ -1,0 +1,12 @@
+h1{
+    color: red;
+    text-align: center;
+    text-shadow: 0cap;
+}
+h4{
+    background-color: aquamarine;
+    flex-direction: column;
+}
+p{
+    text-align: right;
+}
